@@ -1,0 +1,8 @@
+name: S-VirtualFurnace
+main: fr.gamalta.redblock.virtualfurnace.VirtualFurnace
+version: 1.0
+author: Gamalta
+api-version: 1.15
+depend: [RedCore]
+commands:
+  Furnace:
